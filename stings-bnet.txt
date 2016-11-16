@@ -1,0 +1,3951 @@
+Strings2 v1.3
+  Copyright © 2016, Geoff McDonald
+  http://www.split-code.com/
+
+!This program cannot be run in DOS mode.
+$
+y*x5+
+xhR+x
+xRich
+.text
+`.rdata
+@.data
+.tls
+.rsrc
+@.reloc
+h0LB
+hULB
+hJLB
+h?LB
+h`LB
+hoLB
+hpLB
+h(MB
+h<MB
+hPMB
+_^[]
+wL9q
+YPSV
+YPSV
+YPVW
+D$XP
+L$XSGW
+L$XP
+_^[3
+sB9>w>+>
+_^[]
+sD9>w@+>S
+s>9>w:+>
+[_^]
+u	;N
+_[^]
+_^[]
+r0+>
+r0+>
+t/;M
+w/9q
+w&9F
+t;S3
+D$Hp
+L$0QP
+t$HYY
+D$$+
+;T$$|
+_^[3
+AhPj
+PSSj
+AhPj
+Y_^]
+h=FB
+wTh@
+wThT
+_^[3
+wTVht
+wTVh
+_^[3
+=LPB
+L$(Q
+j.Xf9D$Tu
+tOf9D$Vu
+D$(P
+D$(PV
+_^[3
+L$$Qj
+9L$Lt
+t$$S
+9L$Lt
+_^[3
+D$(9D$$t
+
+9D$$t
+
+9D$$t
+
+_^[3
+Np[^
+9/u5
+/u03
+@j/P
+htFB
+D$$;
+D$(Y
+D$ Pj
+T$(P
+L$$I;
+D$,9D$(t
+
+Y_^[
+Y_^[
+D$`9D$\t
+
+D$`hx
+!t$,!t$@
+D$ PR
+t$8YY
+_^[3
+Y_^[
+D$ 9D$
+D$ P
+D$,(
+|$8f
+Y_^[
+L$ Q
+L$ QR
+D$ 9D$
+SSSSh
+PSSj
+p(SV
+_^[3
+7_^]
+u+Vj
+hHGB
+D$ d
+L$ d
+Y_^[
+pTh4
+PSSj
+SVWj
+wTVhT
+wTVh
+wTVh
+j	_V
+D$8h
+D$8h$
+Y_^[
+t/hp
+u1VW
+t}PS
+D$ h
+D$(PW
+_^[3
+t$(h
+D$0P
+t#8\
+SVWj
+<Tt;<Y
+tokD
+Y_^[
+t1VW
+t/9y
+SVWj
+Z_^[
+9_^[]
+^$^[]
+~$_^]
+?v
+h
+s^jd
+Y_^[
+WQPQ
+t	j 
+u	VW
+<"u	j\
+=\QB
+tQQQ
+jpPj	j
+jpPj	V
+jD^V
+SSQPS
+=\QB
+j<[S
+tUQQ
+Y_^]
+[_^]
+QQSV
+<	wk
+>luEF
+>6u=
+D$8SP
+t
+9L
+D$ 9D$
+HtDHtAHt#Ht
+;t$(
+\$$P
+\$(+
+0HtZHtWHt6Ht
+HueW
+T$$J
+;t$(
++t$,
+_^[3
+v
+VRQ
+uP;u
+HtKHt<Ht-Ht
+Ht@Ht3Ht&Ht
+uTSV
+QSVW
+Y_^[
+PQWh|
+t$;0t ;p
+YF;5
+QSVW
+97u4
+QQSVW
+;w0u
+5\QB
+%8CQ]
+SVW3
+SVW3
+_^[]
+t);M
+?PSV
+~_^]
+_^[]
+s6+1W
+;0uA9E
+[_^]
+w19q
+_^[]
+QQSV
+PQQSVW
+\$ 3
+Y_^[
+PQQSVW
+\$ 3
+Y_^[
+t.;:u
+QQVW
+t5;p
+,;0u
+
+2FC;
+>_^[]
+t j0[;
+B<0r
+Vj03
+QQSVW
+<3r;<4vF<6v3<8v><:w+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SVW3
+F!<3rE<4v
+<6v=<8v
+<:w5
+_^[]
+_^[]
+#u"C
+j#^;
+jPXC
+jGXC
+@ +M
+A F;q
+	F(3
+@;N$~
+HHtk
+t)Hu*
+j
+ZC
+It{ItUIt;It
+??uK
+XjY
+|$ f
+;D$8t
+\$0f
+D$DP
+D$$P
+D$4P
+D$,P
+D$,P
+T$4t$
+?|uR
+Xj$Y
+T$4+
+D$8;
+?)u	
+_^[]
+_^[]
+;Au6
+)t,~
+)uTj
+RtG
++uo3
+<<u1G
+?>u<
+g<=t
+j
+GY
+t#<\
+y7j
+Y
+<[u"
+<\uZj
+t <]t
+j(Xf
+ERCPPQQ
+@_^[]
+;sDr
+;sHv
+jPX;
+GRSQ
+ST;C
+t<9Q
+t	;s@
+;s@t
+
+;sDs
+CDH;
+;s@t
+;sDs
+;sDs	
+F;CD
+|=RSQ
+<8vX<:
+;sHt
+;sDs=
+u.FA;
+;sDs<
+u1FA;
+;sDs=
+t.FA;
+;sDs<
+t1FA;
+}{;sD
+}H;sDsg
+u[FB;
+;sDs<
+t0FB;
+,,,,,,,,
+ !"""#$#$%&'()*(+
+>ERCP
+|1@k
+|29}
+t1C;]
+t!C;
+v<9}
+uo9}
+QQSV
+=ERCPt
+Wj
+Y
+_^;M
+@PSV
+D$,h
+Y_^[
+_^[]
+t5;p
+,;0u
+
+8_^[]
+8Xu 
+8Xt
+=4UB
+oF f
+oF f
+oF f
+oV f
+o^0f
+of@f
+onPf
+ov`f
+o~pf
+FGIu
+FGIu
+rPS
+r>PS
+h aB
+hpRB
+hXRB
+$TRB
+_^[]
+woSW
+H^[_
+^[_3
+^_[3
+t#Ht
+PuB
+PuB
+HuB
+s	9r
+tWPV
+^TYY
+^_[]
+u9h0aB
+h@aB
+u8hXaB
+h@aB
+@uqW
+hhaB
+hhaB
+PPPPP
+uaPPPS
+PWVS
+YY_^[]
+PPPPPPPP
+@uqW
+PPPPPPPP
+8csm
+oF f
+oF f
+oF f
+oV f
+o^0f
+of@f
+onPf
+ov`f
+o~pf
+FGIu
+FGIu
+ VWj
+Y__^[
+jjjjj
+QQSVWd
+ineI
+5ntel
+5Genu
+t#=`
+Y;5`
+u*9E
+Y;5`
+Y__^[
+8csm
+t/Ht
+t&:a
+<Xu	
+t:Sh
+jX]
+URPQQh
+L$,3
+UVWS
+[_^]
+SVWj
+_^[]
+SVAW
+A_^[]
+Y_^[]
+1N_^[
+Npt"
+_^[]
+9wlt
+~pjCXf
+[_^]
+@ucP
+t/HHt
+HHtVHHt
+HHtp
+RPWQ
+>0t-N
+_^[t
+
+PWj?
+[_^]
+%XQB
+h(gB
+h4gB
+h<gB
+hHgB
+hTgB
+hpgB
+h(hB
+h<hB
+hPhB
+hlhB
+h,iB
+h<iB
+hLiB
+hhiB
+h|iB
+<v5h"
+Ot	A
+SSSSS
+_^[]
+Y_^[
+Y_^[
+j@j _W
+A%
+
+
+} j@W
+A%
+
+
+99t
+t"jXP
+j_f
+VVhU
+QQSV
+tRHtC
+t;Ht+
+VhXuB
+h`uB
+hluB
+9E(j
+WVPS
+PP9E u
+C@j:f
+j.Xf
+j.Xf
+8csm
+QQSVWh
+f9>u
+PWWV
+j"Xf9
+j"Xf9
+j\Xu;
+j"_f9y
+t"f;E
+j=Yf
+tAVSP
+Y_^[
+PPPPP
+tGS3
+Vj ^
+"u	3
+8csm
+PRSW
+>csm
+8csm
+>csm
+>csm
+u
+9^
+>csm
+?MOC
+?RCC
+|c;F
+@u(j
+u Qj
+QQSV
+Hu4j
+YYPW
+8RCC
+8MOC
+8csm
+ft!9q
+rY9q
+r.9z
+@_^[]
+@_^]
+,SVWj0X
+u'j0X
+j0Yf
+v6j0
+Wj0XPV
+PRSQ
+PjdSQ
+Pj
+SQ
+80t-
+-jd[;
+j
+[;
+WWWWW
+y&8]
+Wj0V
+PSVW
+|+;E
+	<et
+VVVVV
+SVW3
+_^[]
+jA[jZZ+
+rf;
+Nt
+f
+PWWWWV
+PSSSSV
+v	N+D$
+SVWUj
+]_^[
+;t$,v-
+UQPXY]Y[
+u1j
+
+u4j
+
+j@j 
+x&;d
+x\;d
+SVW3
+9E W
+j Y+
+tf;1u
+u9M
+t%Ou
+x$;d
+QVWSj
+tO9=
+~';_t|%3
+wtVj	
+;_tr.
+GWVj	
+tHHt*Ht#
+uJSSR
+D2$$
+SSSSS
+SVjA[jZ^+
+rf;
+Ot
+f
+jAZjZ^
+rf;
+ItDf
+t?f;
+@j:f
+j\Xf
+?5|
+@PSV
+[_^]
+PPPPP
+WVU3
+v	N+D$
+Ht+Ht$Ht
+Huzj
+u
+B;
+u
+B;
+9E$u
++t"HHt
+9] t"
+j
+XJ
+u
+HAO8
+u	9Y
+%<
+tK
+%
+u+
+&<
+t
+N_j
+Y
+8
+uj
+X
+Ht#j
+Xj8E
+j
+X8E
+FjY;}
+j
+X8E
+sUj
+t3f;
+j
+Xf9
+jXP_f
+j
+Zf9
+s(j
+Zf9W
+HtRj
+Xjf9E
+&jY;}
+j
+Xf9E
+j
+Xf9E
+jYf
+jYf
+D1$$
+D1$$
+_^[u
+u	9Y
+<5|E
+SSSSS
+j@%@
+WVS3
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+bad allocation
+Unknown exception
+mscoree.dll
+CorExitProcess
+RoInitialize
+combase.dll
+RoUninitialize
+log10
+sinh
+cosh
+tanh
+asin
+acos
+atan
+atan2
+sqrt
+ceil
+floor
+fabs
+modf
+ldexp
+_cabs
+_hypot
+fmod
+frexp
+_logb
+_nextafter
+UTF-8
+UTF-16LE
+UNICODE
+Bja-JP
+zh-CN
+ko-KR
+zh-TW
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+en-US
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+(null)
+(null)
+( 8PX
+700WP
+`h````
+xpxxxx
+kernel32.dll
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+BR6002
+- floating point support not loaded
+
+R6008
+- not enough space for arguments
+
+R6009
+- not enough space for environment
+
+R6010
+- abort() has been called
+
+R6016
+- not enough space for thread data
+
+R6017
+- unexpected multithread lock error
+
+R6018
+- unexpected heap error
+
+R6019
+- unable to open console device
+
+R6024
+- not enough space for _onexit/atexit table
+
+R6025
+- pure virtual function call
+
+R6026
+- not enough space for stdio initialization
+
+R6027
+- not enough space for lowio initialization
+
+R6028
+- unable to initialize heap
+
+R6030
+- CRT not initialized
+
+R6031
+- Attempt to initialize the CRT more than once.
+This indicates a bug in your application.
+
+R6032
+- not enough space for locale information
+
+R6033
+- Attempt to use MSIL code from this assembly during native code initialization
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+
+R6034
+- inconsistent onexit begin-end variables
+
+DOMAIN error
+
+SING error
+
+TLOSS error
+
+runtime error 
+Runtime Error!
+
+Program: 
+<program name unknown>
+Microsoft Visual C++ Runtime Library
+('8PW
+700PP
+`h`hhh
+xppwpp
+UTF-8
+UTF-16LE
+UNICODE
+bad exception
+e+000
+zh-CHS
+ar-SA
+bg-BG
+ca-ES
+cs-CZ
+da-DK
+de-DE
+el-GR
+fi-FI
+fr-FR
+he-IL
+hu-HU
+is-IS
+it-IT
+nl-NL
+nb-NO
+pl-PL
+pt-BR
+ro-RO
+ru-RU
+hr-HR
+sk-SK
+sq-AL
+sv-SE
+th-TH
+tr-TR
+ur-PK
+id-ID
+uk-UA
+be-BY
+sl-SI
+et-EE
+lv-LV
+lt-LT
+fa-IR
+vi-VN
+hy-AM
+az-AZ-Latn
+eu-ES
+mk-MK
+tn-ZA
+xh-ZA
+zu-ZA
+af-ZA
+ka-GE
+fo-FO
+hi-IN
+mt-MT
+se-NO
+ms-MY
+kk-KZ
+ky-KG
+sw-KE
+uz-UZ-Latn
+tt-RU
+bn-IN
+pa-IN
+gu-IN
+ta-IN
+te-IN
+kn-IN
+ml-IN
+mr-IN
+sa-IN
+mn-MN
+cy-GB
+gl-ES
+kok-IN
+syr-SY
+div-MV
+quz-BO
+ns-ZA
+mi-NZ
+ar-IQ
+de-CH
+en-GB
+es-MX
+fr-BE
+it-CH
+nl-BE
+nn-NO
+pt-PT
+sr-SP-Latn
+sv-FI
+az-AZ-Cyrl
+se-SE
+ms-BN
+uz-UZ-Cyrl
+quz-EC
+ar-EG
+zh-HK
+de-AT
+en-AU
+es-ES
+fr-CA
+sr-SP-Cyrl
+se-FI
+quz-PE
+ar-LY
+zh-SG
+de-LU
+en-CA
+es-GT
+fr-CH
+hr-BA
+smj-NO
+ar-DZ
+zh-MO
+de-LI
+en-NZ
+es-CR
+fr-LU
+bs-BA-Latn
+smj-SE
+ar-MA
+en-IE
+es-PA
+fr-MC
+sr-BA-Latn
+sma-NO
+ar-TN
+en-ZA
+es-DO
+sr-BA-Cyrl
+sma-SE
+ar-OM
+en-JM
+es-VE
+sms-FI
+ar-YE
+en-CB
+es-CO
+smn-FI
+ar-SY
+en-BZ
+es-PE
+ar-JO
+en-TT
+es-AR
+ar-LB
+en-ZW
+es-EC
+ar-KW
+en-PH
+es-CL
+ar-AE
+es-UY
+ar-BH
+es-PY
+ar-QA
+es-BO
+es-SV
+es-HN
+es-NI
+es-PR
+zh-CHT
+af-za
+ar-ae
+ar-bh
+ar-dz
+ar-eg
+ar-iq
+ar-jo
+ar-kw
+ar-lb
+ar-ly
+ar-ma
+ar-om
+ar-qa
+ar-sa
+ar-sy
+ar-tn
+ar-ye
+az-az-cyrl
+az-az-latn
+be-by
+bg-bg
+bn-in
+bs-ba-latn
+ca-es
+cs-cz
+cy-gb
+da-dk
+de-at
+de-ch
+de-de
+de-li
+de-lu
+div-mv
+el-gr
+en-au
+en-bz
+en-ca
+en-cb
+en-gb
+en-ie
+en-jm
+en-nz
+en-ph
+en-tt
+en-us
+en-za
+en-zw
+es-ar
+es-bo
+es-cl
+es-co
+es-cr
+es-do
+es-ec
+es-es
+es-gt
+es-hn
+es-mx
+es-ni
+es-pa
+es-pe
+es-pr
+es-py
+es-sv
+es-uy
+es-ve
+et-ee
+eu-es
+fa-ir
+fi-fi
+fo-fo
+fr-be
+fr-ca
+fr-ch
+fr-fr
+fr-lu
+fr-mc
+gl-es
+gu-in
+he-il
+hi-in
+hr-ba
+hr-hr
+hu-hu
+hy-am
+id-id
+is-is
+it-ch
+it-it
+ja-jp
+ka-ge
+kk-kz
+kn-in
+kok-in
+ko-kr
+ky-kg
+lt-lt
+lv-lv
+mi-nz
+mk-mk
+ml-in
+mn-mn
+mr-in
+ms-bn
+ms-my
+mt-mt
+nb-no
+nl-be
+nl-nl
+nn-no
+ns-za
+pa-in
+pl-pl
+pt-br
+pt-pt
+quz-bo
+quz-ec
+quz-pe
+ro-ro
+ru-ru
+sa-in
+se-fi
+se-no
+se-se
+sk-sk
+sl-si
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sq-al
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+sv-fi
+sv-se
+sw-ke
+syr-sy
+ta-in
+te-in
+th-th
+tn-za
+tr-tr
+tt-ru
+uk-ua
+ur-pk
+uz-uz-cyrl
+uz-uz-latn
+vi-vn
+xh-za
+zh-chs
+zh-cht
+zh-cn
+zh-hk
+zh-mo
+zh-sg
+zh-tw
+zu-za
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__ptr64
+__restrict
+__unaligned
+restrict(
+ new
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`RTTI
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+         (((((                  H
+         (((((                  H
+                                 
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+USER32.DLL
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+CreateFile2
+CONOUT$
+1#SNAN
+1#IND
+1#INF
+1#QNAN
+<5IkQ
+s1q4
+<5IkQ
+<5IkQ
+ generic
+unknown error
+iostream
+iostream stream error
+system
+Blizzard Web Client
+file://
+open
+%sTempHTMLFile%x.html
+Content-Type: text/html
+
+
+Content-Type: %s
+
+
+Content-Length: %d
+
+Range: bytes=%lld-%lld
+
+%s: %s
+
+Agent
+switcher argument[%d]: '%s'
+
+Logs\Switcher.log
+--switcherbeta
+--switcherptr
+--switcheradmin
+--switcherretail
+--switcherall
+.DEBUG
+http://enUS.nydus.battle.net/BNET/enUS/setup/BLZPTS0000C
+http://enUS.nydus.battle.net/BNET/enUS/setup/BLZPTS00007
+CentaurHaulsCyrixInsteadAuthenticAMDGenuineIntel%04d/%02d/%02d %02d:%02d:%02d  %s(%d) : Assertion failed: %s  "%s"
+
+Errors
+/Assert.log
+psapi.dll
+This application has encountered a critical error:
+
+%s
+
+Program:	%s
+
+File:	%s
+Line:	%d
+
+Exception:	%s
+
+Expression:	%s
+
+
+%s
+
+
+Crashed Thread:	0x%08x
+
+(%u)
+ : error %u: 
+Errors
+ Log
+%s %s.%s
+%s: %s (build %d)
+-attachment
+-auto
+Inspector.Summary
+Inspector.Summary
+DBG-OPTIONS<FunctionsOnly>
+
+DBG-ADDR<%p>("%s")
+Inspector.Assertion
+DBG-OPTIONS<>
+
+Inspector.HashBlock
+Showing %d threads...
+======================
+Thread %d/%d - Thread Id: %d
+======================
+DBG-ADDR<%p>("%s")
+Inspector.DebugModules
+Crash
+Error
+%s: %s (build %d)
+Application
+Inspector.ProjectId
+Inspector.BuildNumber
+Inspector.Module
+Inspector.Platform
+Inspector.Priority
+Crash
+%s: %s (build %d)
+Project: %d
+
+Build: %d
+
+Project Name: %s
+
+Release
+WowError.exe
+WowErrord.exe
+Assertion Failure
+Fatal Exception
+Unknown Error
+ERROR #%u (0x%08x) %s
+<unknown>
+<unknown>
+%08X %08X %04X:%08X %s
+    %s
+%08X: 
+<can't read from this address>
+%02X %02X %02X %02X  
+%02X %02X %02X %02X  
+%02X %02X %02X %02X  
+%02X %02X %02X %02X  
+Exe:
+%-10s%s
+Time:
+%-10s%3s %2d, %4d %2d:%02d:%02d.%03d %cM
+<unknown>
+User:
+%-10s%s
+<unknown>
+Computer:
+%-10s%s
+Memory Dump
+Code: %d bytes starting at (EIP = %08X)
+Stack: %d bytes starting at (ESP = %08X)
+<unknown module>
+<unknown symbol>
+**** SymGetModuleInfo() failed, error: %d
+**** SymGetLineFromAddr() failed, error: %d
+**** SymGetSymFromAddr() failed, error: %d
+%08X %-12s %s+%d (0x%08X,0x%08X,0x%08X,0x%08X) (%s,%d)
+%08X %-12s %s+%d (0x%08X,0x%08X,0x%08X,0x%08X)
+%08X %-12s %s+%d (%s,%d)
+%08X %-12s %s+%d
+**** StackWalk() returned FALSE, error: %d
+**** StackWalk() returned zero address - skipping stack frame
+Stack Trace (Using DBGHELP.DLL)
+****  Couldn't load DBGHELP.DLL, error: %d
+Showing %d/%d threads...
+--- Thread ID: %d [Current Thread] ---
+--- Thread ID: %d ---
+**** Unable to gain access to the thread, error: 
+**** Unable to retrieve thread context, error: %d
+Stack Trace (Manual)
+Address  Frame    Logical addr  Module
+Showing %d/%d threads...
+--- Thread ID: %d [Current Thread] ---
+--- Thread ID: %d ---
+**** Unable to retrieve thread context, error: %d
+%08X %08X %04X:%08X %s
+%2.2x
+%4.4x
+%8.8x
+%16.16lx
+x86 Registers
+Loaded Modules
+%04x
+%04x
+%08x
+%02x
+DBG-ADDR<
+%08x
+DBG-MODULE<
+%04d-%02d-%02d %02d.%02d.%02d
+dbghelp.dll
+StackWalk64
+SymFunctionTableAccess64
+SymGetLineFromAddr64
+SymGetModuleBase64
+SymGetModuleInfo64
+SymGetOptions
+SymGetSymFromAddr64
+SymInitialize
+SymCleanup
+SymSetOptions
+SymEnumerateModules64
+SymEnumerateSymbols64
+MiniDumpWriteDump
+7psapi.dll
+EnumProcessModules
+GetModuleInformation
+GetModuleBaseNameW
+ntdll.dll
+:>
+
+>
+
+
+[%d] err=%d text=%s
+%s
+no exception
+unknown exception
+illegal instruction
+memory access violation
+divide by zero
+floating-point exception
+interrupt/break
+Blizzard Core Exception: %s
+Native Exception Code: 0x%x
+Exception Address=%04p
+EAX    = 0x%04x
+EBX    = 0x%04x
+ECX    = 0x%04x
+EDX    = 0x%04x
+EDI    = 0x%04x
+ESI    = 0x%04x
+ESP    = 0x%04x
+EBP    = 0x%04x
+EIP    = 0x%04x
+EFLAGS = 0x%04x
+
+Exceptions.log
+ACCESS_VIOLATION
+DATATYPE_MISALIGNMENT
+BREAKPOINT
+SINGLE_STEP
+ARRAY_BOUNDS_EXCEEDED
+FLT_DENORMAL_OPERAND
+FLT_DIVIDE_BY_ZERO
+FLT_INEXACT_RESULT
+FLT_INVALID_OPERATION
+FLT_OVERFLOW
+FLT_STACK_CHECK
+FLT_UNDERFLOW
+INT_DIVIDE_BY_ZERO
+INT_OVERFLOW
+PRIV_INSTRUCTION
+IN_PAGE_ERROR
+ILLEGAL_INSTRUCTION
+NONCONTINUABLE_EXCEPTION
+STACK_OVERFLOW
+INVALID_DISPOSITION
+GUARD_PAGE
+INVALID_HANDLE
+ntdll.dll
+unknown exception
+written
+executed
+The instruction at "0x%p" referenced memory at "0x%p".
+The memory could not be %s.
+read
+0x%p (%s) at %04X:%p
+exception-failed.txt
+Exception handler died
+
+Original exception:
+
+<unknown module>
+<unknown symbol>
+%s %s+%d %s(%d)
+%s %s
+Blizzard::File
+Win32 Open (%d) - Bad file mode
+d:\buildserver\bna-1\work-git\agent-repository\blizzardcore\source\system\file\File_Win32.cpp
+Win32 Close (%d)
+D:(A;OICI;GA;;;BU)(A;OICI;GA;;;BA)(A;OICI;GA;;;CO)
+Win32 Open (%d) - '%s'
+d:\buildserver\bna-1\work-git\agent-repository\blizzardcore\source\system\file\File_Win32.cpp
+PreallocateSlow - memory - %s
+PreallocateSlow - filewrite - %s
+PreallocateSlow - canceled - %s
+PreallocateFast/Win - SetFilePointerEx - err %d - %s
+PreallocateFast/Win - SetEndOfFile - err %d - %s
+PreallocateFast/Win - SetFileValidData - err %d - %s
+PreallocateFast/Win - request rights - %s
+PreallocateFast/Win - Open - %s
+PreallocateFast/Win - request rights - %s
+%s%s/
+%s%s
+GetLogicalProcessorInformation
+kernel32
+powrprof.dll
+GetPwrCapabilities
+CallNtPowerInformation
+ROOT\CIMV2
+SELECT * FROM Win32_ComputerSystem
+LManufacturer
+Model
+kernel32.dll
+TryEnterCriticalSection
+%02d:%02d:%02d.%04d 
+
+#-----------------------------------------------------------
+# System started at %04d-%02d-%02d %02d:%02d:%02d.%04d
+# system: %s
+#-----------------------------------------------------------
+
+
+#-----------------------------------------------------------
+# %04d-%02d-%02d
+# system: %s
+#-----------------------------------------------------------
+
+%02d%02d%02d-%02d%02d%02d
+%02d%02d%02d
+Blizzard::Log
+Blizzard::Time
+Blizzard::Log
+kernel32.dll
+GetPhysicallyInstalledSystemMemory
+%s%d
+d:\buildserver\bna-1\work-git\agent-repository\blizzardcore\source\system\memory\SharedMemory_Win32.cpp
+d:\buildserver\bna-1\work-git\agent-repository\blizzardcore\source\system\memory\SharedMemory_Win32.cpp
+d:\buildserver\bna-1\work-git\agent-repository\blizzardcore\source\system\memory\StackedAllocator.cpp
+d:\buildserver\bna-1\work-git\agent-repository\blizzardcore\source\system\memory\StackedAllocator.cpp
+d:\buildserver\bna-1\work-git\agent-repository\blizzardcore\source\system\memory\StackedAllocator.cpp
+d:\buildserver\bna-1\work-git\agent-repository\blizzardcore\source\system\memory\StackedAllocator.cpp
+d:\buildserver\bna-1\work-git\agent-repository\blizzardcore\source\system\memory\StackedAllocator.cpp
+d:\buildserver\bna-1\work-git\agent-repository\blizzardcore\source\system\memory\StackedAllocator.cpp
+d:\buildserver\bna-1\work-git\agent-repository\blizzardcore\source\system\memory\StackedAllocator.cpp
+d:\buildserver\bna-1\work-git\agent-repository\blizzardcore\source\system\memory\StackedAllocator.cpp
+Blizzard::Memory
+Blizzard::Memory
+Blizzard
+Temp
+%s_%08X
+Blizzard Entertainment, Inc.
+<unknown>
+mshell32.dll
+Process Monitor Thread (PID: %d)
+SeIncreaseQuotaPrivilege
+BlizzardEntertainment
+winsta0\default
+Advapi32.dll
+CreateProcessWithTokenW
+open
+runas
+2.5.4.10
+2.5.4.10
+127.0.0.1
+PipeCompletionRoutine (%s) failed.  Op result: %u Last error: %u
+
+ConnectNamedPipe [0](%s) failed.  Last error: %d
+
+ConnectNamedPipe [1](%s) failed.  Last error: %d
+
+Convert Named Pipe to Wide Char (%s) failed.  Last error: %d
+
+failed to convert char to wchar string
+CreateEvent (%s) failed.  Last error: %d
+
+D:P(A;OICI;GA;;;SY)(A;OICI;GA;;;BA)(A;OICI;GWGR;;;IU)S:(ML;;NW;;;S-1-16-4096)
+CreateNamedPipe (%s) failed.  Last error: %d
+
+Server Pipe (%s) creation failed.  Last error: %d
+
+ConnectNamedPipe (%s) failed.  Last error: %d
+
+Named pipe (%s) WaitForSingleObjectEx failed. Last error: %d
+
+NamedPipe Server Thread
+NamedPipe Server Thread
+Unable to convert pipename (%s) to wide character string.
+
+failed to convert char to wchar string
+Could not open pipe (%s). Last error: %d
+
+Could not open pipe (%s): 20 second wait timed out.
+
+SetNamedPipeHandleState failed (%s). Last error: %d
+
+Write to pipe (%s) failed. Last error: %d
+
+Read from pipe (%s) failed. Last error: %d
+
+NamedPipe Client Thread
+*/:><|?"
+String::Duplicate
+d:\buildserver\bna-1\work-git\agent-repository\blizzardcore\source\system\string\String.cpp
+Blizzard Thread Pool Worker
+%s, %02d %s %04d %02d:%02d:%02d GMT
+Blizzard::Time
+ROOT\CIMV2
+IsWow64Process
+kernel32
+SELECT * FROM Win32_OperatingSystem
+LCaption
+:;<=>?@
+[\]^_`
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+%s.beta.
+%s.ptr.
+^%s\.(?:\w+\.)?(\d*)$
+%s.%s
+string too long
+invalid string position
+vector<T> too long
+D:\BuildServer\bna-1\work-git\agent-repository\BlizzardCore\Include\Blizzard/Sys/Allocator_STL.h
+Blizzard::Using::GlobalUse
+Blizzard::Debug
+Blizzard::Memory
+Blizzard::ThreadLocalStorage
+Win32 Execute - %s
+Win32 Read - End of File - %s
+Win32 Read (%d) - %s %u %u
+Win32 Write (%d) - %s
+SeManageVolumePrivilege
+Blizzard::AllocatorStacks
+Blizzard::Thread
+Blizzard::File
+map/set<T> too long
+RSDS
+D:\BuildServer\bna-1\work-git\agent-repository\Agent\Release\Switcher.pdb
+GetLastError
+GetFileSize
+SetInformationJobObject
+FindFirstFileW
+SetFilePointer
+TlsGetValue
+SetEndOfFile
+FreeLibrary
+SetUnhandledExceptionFilter
+GetCurrentProcess
+SetFilePointerEx
+QueryPerformanceCounter
+CreateJobObjectW
+CreateDirectoryW
+WaitForSingleObject
+GetComputerNameW
+SetEvent
+OutputDebugStringW
+GetModuleHandleW
+GetTickCount
+GetCurrentThread
+VirtualFree
+GetSystemTimeAsFileTime
+SetFileTime
+GetCompressedFileSizeW
+WriteFile
+InitializeCriticalSection
+TlsSetValue
+OpenProcess
+WideCharToMultiByte
+LoadLibraryW
+Sleep
+AssignProcessToJobObject
+GetVersionExW
+LeaveCriticalSection
+GetExitCodeProcess
+GetFileAttributesW
+TerminateProcess
+FileTimeToSystemTime
+ReadFile
+GetModuleFileNameW
+CreateFileW
+QueryInformationJobObject
+MultiByteToWideChar
+SetThreadPriority
+FlushFileBuffers
+RaiseException
+GetFileSizeEx
+GetCurrentDirectoryW
+GetProcAddress
+VirtualAlloc
+MoveFileW
+EnterCriticalSection
+FindClose
+GetProcessId
+SetCurrentDirectoryW
+RemoveDirectoryW
+OpenJobObjectW
+DeviceIoControl
+IsDebuggerPresent
+FindNextFileW
+GetFileAttributesExW
+QueryPerformanceFrequency
+DeleteCriticalSection
+GetShortPathNameW
+GetCurrentThreadId
+GetVersionExA
+GetDiskFreeSpaceExW
+TlsAlloc
+CloseHandle
+DeleteFileW
+GetCurrentProcessId
+GetFileInformationByHandle
+SetFileValidData
+LocalFree
+TlsFree
+SetFileAttributesW
+GetVolumeInformationW
+CreateThread
+KERNEL32.dll
+GetShellWindow
+GetWindowThreadProcessId
+GetForegroundWindow
+USER32.dll
+OpenProcessToken
+GetTokenInformation
+LookupPrivilegeValueW
+DuplicateTokenEx
+ConvertStringSecurityDescriptorToSecurityDescriptorW
+AdjustTokenPrivileges
+ADVAPI32.dll
+ShellExecuteExW
+SHELL32.dll
+OLEAUT32.dll
+EncodePointer
+DecodePointer
+IsProcessorFeaturePresent
+ExitProcess
+GetModuleHandleExW
+HeapFree
+HeapAlloc
+ExitThread
+LoadLibraryExW
+GetFullPathNameW
+HeapReAlloc
+GetCommandLineW
+RtlUnwind
+HeapSize
+IsValidCodePage
+GetACP
+GetOEMCP
+GetCPInfo
+SetLastError
+UnhandledExceptionFilter
+InitializeCriticalSectionAndSpinCount
+GetStartupInfoW
+GetStdHandle
+GetProcessHeap
+GetFileType
+GetConsoleCP
+GetConsoleMode
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+LCMapStringW
+SetStdHandle
+GetStringTypeW
+WriteConsoleW
+GetDriveTypeW
+ReadConsoleW
+sqrt
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+kU'9
+HMXB
+?q=
+
+?Zd;
+?/L[
+S;uD
+z?aUY
+D?$?
+U>c{
+zc%C1
+.:3q
+-64OS
+NKeb
+alpha
+lower
+upper
+alnum
+ascii
+blank
+cntrl
+digit
+graph
+print
+punct
+space
+word
+xdigit
+no error
+\ at end of pattern
+\c at end of pattern
+unrecognized character follows \
+numbers out of order in {} quantifier
+number too big in {} quantifier
+missing terminating ] for character class
+invalid escape sequence in character class
+range out of order in character class
+nothing to repeat
+operand of unlimited repeat could match the empty string
+internal error: unexpected repeat
+unrecognized character after (?
+POSIX named classes are supported only within a class
+missing )
+reference to non-existent subpattern
+erroffset passed as NULL
+unknown option bit(s) set
+missing ) after comment
+parentheses nested too deeply
+regular expression too large
+failed to get memory
+unmatched parentheses
+internal error: code overflow
+unrecognized character after (?<
+lookbehind assertion is not fixed length
+malformed number after (?(
+conditional group contains more than two branches
+assertion expected after (?(
+(?R or (?digits must be followed by )
+unknown POSIX class name
+POSIX collating elements are not supported
+this version of PCRE is not compiled with PCRE_UTF8 support
+spare error
+character value in \x{...} sequence is too large
+invalid condition (?(0)
+\C not allowed in lookbehind assertion
+PCRE does not support \L, \l, \N, \U, or \u
+number after (?C is > 255
+closing ) for (?C expected
+recursive call could loop indefinitely
+unrecognized character after (?P
+syntax error after (?P
+two named groups have the same name
+invalid UTF-8 string
+support for \P, \p, and \X has not been compiled
+malformed \P or \p sequence
+unknown property name after \P or \p
+blank
+*+?{^.$|()[
+argument is not a compiled regular expression
+unknown or incorrect option bit(s) set
+failed to get memory
+6.4 05-Sep-2005
+internal error
+invalid repeat counts in {}
+pattern error
+? * + invalid
+unbalanced {}
+unbalanced []
+collation error - not relevant
+bad class
+bad escape sequence
+empty expression
+unbalanced ()
+bad range inside []
+expression too big
+failed to get memory
+bad back reference
+bad argument
+match failed
+unknown error code
+ at offset 
+%s%s%-6d
+.?AVbad_alloc@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVtype_info@@
+.?AVbad_exception@std@@
+.?AV_com_error@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AVexception@std@@
+VS_VERSION_INFO
+StringFileInfo
+040904b0
+CompanyName
+Blizzard Entertainment
+FileDescription
+Blizzard File Switcher
+FileVersion
+2.3.2.4716
+InternalName
+Battle.net Switcher
+LegalCopyright
+ 2010-2016 Blizzard Entertainment Inc.
+OriginalFilename
+Battle.net.exe
+ProductName
+Blizzard File Switcher
+ProductVersion
+2.3.2.4716
+VarFileInfo
+Translation
+PNG
+
+IHDR
+IDATx
+eWU&
+nimpB
+UI?	$
+0ZS>
+Vkk{d
+K:L5n
+[f'N}|aa
+i0JCmOKNZG
+z8=9
+hczr
+XZYD
+6!)l|E
+[\Fwe
+dzd%
+hr5K
+gyF
+5DE
+4V	r
+~%4J
+ Wh>.
+zq*K
+yb*<
+-Y/"
+&Y\/
+!NZ$
+1{P@b*
+j&w#}
+DG[Vl$e
+/ xXu
+%<g&YBR^-U6
+%$Kw
+sR
+[
+,cnn
+2p`+M
+)3aM
+NBaIa
+1bI:
+Vwei
+y+6_
+W*d
+,)6	
+
+8Jj
+#sNO
+6*it
+3qc%
+<7:X
+_67}
+tqfv
+`mBA
+cHi
+C
+uGr[
+y)R!@
+bqv2
+D
+XD
+W&)b
+18Rf
+c+1\Kn
+xQ:79`H|
+}}rE
+YWd}
+T{n2
+Su ,
+T!iU
+hiBx
+X [-
+VYfU'
+kX*
+:(k-q
+1)6]
+O`TPv
+z1>{
+.aMg6	
+V A6'
+5&AV)3
+ @EV>J.x
+4%>!l!2U
+SzCu
+3(@P
+lywu
+g0<2
+>Uo?
+b*W-
+	``Rn
+d;U)
+*3|t{
+2,}=#
+
+|yE	
+wc|l<
+k	@A)
+ Y)K
+_W1C
+Q@1w
+5,Y*UJ
+{X )
+}WE1
+<Gi5
+fUmv
+brPP
+XAro
+<pR>	~1]u
+tdl*
+
+/;Yy
+OrjR
+I#xkr
+Dh<Q
+-P:g
+4:rCR
+5SSn
+R'Nyy
+Grh#
+VY
+
+g3=eF
+.,kOf
+jJDI
+]i)-	
+*`H8
+W+]vr
+:@Ie
+z+KN
+a?\j
+		2/
+jd6Yo
+YA1N27a
+/	8x
+km!]
+;KaS
+t3Qe
+6n&$
+l2	J
+Z!t`Q
+Mptx
+A
+&H:R
+][%?9
+_S4]
+Kd!nB*
+y2N^
+h
+,XUh
+W,"7A	F
+QI4)
+TKi?
+kkS;
+s+WV
+bi6Yh
+N7e
+
+X#[f
+b	$4:Z
+nqRc
+;74!AN~wY
+3f@L"30%
+dD?$n
+!>"8&
+pj}]Z$
+Ze
+K
+>6&J
++y\r~-
+i6=O
+uK)v
+'"ka
+	@Qg^
+y(gfD
+)vVg
+1ZJf
+<Mlq
+~l9y
+6+E{
+tvA
+
+zK,7b
+Im*S
+Z2vc
+Sr:.
+G.Dof6)
+SZ5m
+)Xsx?
+9$cf
+|/
+!
+
+lI^
+f/]s
+'VOL
+'&j 
+EVmCN
+X	(&
+r#fN
+
+r@RD
+$@gu
+J98DZH
+q2fYe
+]>Hym%
+\Y5(
+K`?\
+vp'Fg
+Y33Rf
+|T*u
+0i!:33X
+XlEf
+71\+q
+`yl8m
+k@-C
+HA e
+fhm`
+2VVVpjd
+$*VA
+C7[0
+{l\>|
+-/:A
+cnMI&t\A
+i5Fk
+pz:f
+qgq=
+SczS
+?A()@
+/"8(g
+o@sp
+sYT:&
+=S0-X
+^|w-X
+AGR6
+[X8y*
+gXI#
+'cqn
+cE>f
+>UEob,*b
+RymQ
+5,bQP
+]36>
+Yt'Ob
+i~dd
+9LLN
+U~>D
+csaE,88IAA>
+.4:#lE
+wD'#
+R/KUw
+c2=3
+MMAB
+O9Y:
+?noN
+@w	W
+,06q
+H66{
+{0==
+c8zx
+Ie#	w+
+_#+TDS
+kV*h
+t[pB
+fR?t
+qG+C
+gfQ[
+{Wou
+h41X
+Ip(>
+/^}x
+!;Et)
+aSek
+mnb	%t
+:W`
+
+3cXt
+=w9)
+01>mX
+
+<tk:
+R.)r
+n<q(4
+nIzho
+),{q
+YF3#
+/YtPzO?7
+KVQSb
+qeR^MG9
+1iCQJ
+X=3 
+79#?
+GQ8K
+"rZE
+/
+liKo
+QTj-T
+YvVc!
+{x
++a
+/kyE
+~T'1)X
+`S,,t
+8a^q
+i:Ei >,
+Ncyb
+T@AQ
+Wo@o
+25,z
+XF1u
+>|Ir'
+Yr v
+)Wc~
+l:?<+
+z[E*
+Rf[R
+h8Am
+P~9?
+.L!L
+;BKwo
+|
+:*
+>h_+
+(01E
+C0gQ
+%&AC
+J@z~
+OFor<S
+@QI
+3C!8
+jRpz
+#key
+=)D
+LT"_
+9i]=q
+z49oob
+rOwi6l
+}8X!
+(A|#
+N8}=
+(zCkB
+Ix{NIk
+[a7lGw
+Z	7W
+O;V5
+>Lu+Q
+tV*v
+((YP
+Ei,x90
+!6{)
+$^Fk2E	
+YR{A
+kh7i
+-[;q#
+\ Bj
+@/	D
+KfUQ}
+GeX,
+'_$(
+nU4K
+[W#39
+zr3Q
+YDd9J
+rY2	
+!rJ4
+4iy
+=vSw
+iG`M
+Qv2h[
+Dl7
+LY5@A
+kp;!
+l)TR
+E(_}'
+@6(;
+[dH0(
+`@t_
+HFXQ
+
+mmX
+,|3i
+wvA7
+::as
+ap+b
+i]%b
+}OtCE
+ielN
+q@_I
+&;,B
+L6f]tvuP#JL
+NmmwG
+B0DG
+RL&0={
+g 29
+i*uU
+6[06
+mNpE
+i5Eq
+&#
+"O
+y.r1
+%K>-%l
+N@f=
+l!"R
+;Q%T
+8E|!
+EKpFp
+@7:25
+=kK3
+Y"""LC
+yspT
+^kbc
+^{!r
+h$2h
+h;$0L
+`7d<
+N[w'
+D"R#?
+?S[Ao
+!tXiG.
+oQ\u$r
+@q|\
+6Xm]p:H{
+fRqt
+3im,
+^4vnAe
+fftbm
+C{_4
+h:aO
+JlhhT
+Kzgln
+G}34
+
+h~o{z
+P !g
+!3`1
+=)bI
+`+'!
+'meG
+Ef/B
+?-Fd
+wlF4?M
+;?y!
+TtrS
+a;K	
+al h
+`!6k66b
+RaAUPY
+[Xs
+gxn`\d
+V{Y\j@
+K!Wv
+r'xyg
+r~B8
+D]h;
+
+OnFn
+gg+w8v"
+f!,c
+ Vup
+#|SZ
+fe``
+Ar^/
+P]|Ez1
+~2aF
+7cz2/
+f<6i
+;MIK
+FgG
+
+o{XtF
+bp`/
+	>:i
+Q]|(
+@U,^
+/C|r
+HF-D
+1%vC
+H,@8
+yczy
+Ydu(2h
+Sw6=w
+[6aq
+N:9
+^	ss8:
+d\_J
+3]R+
+BIVm2
+O!6{
+u.IA
+AkTo
+k0EO
+u+UO
+FG;D
+~	
+Ps
+	PRQ
+B_eP
+VCad
+
+Dw=
+0C`!
+dTg-
+M5|9p
+1OOoL+@
+Ng17V
+NDml
+l,nHR
+"F`'S
+sWi	MO
+hwt#
+-usv_
+ktt3
+
+C_)6
+Ny5&.
+!Y'`
+Y	h"
+Qh:7
+sT]Myb
+h/t"1
+-`lmx`,M
+nJ@`
+CCu$
+
+3A=05
+,4*2
+F06	
+8AEDL
+pkt-0
+wmG<
+$[ZYV
+8iVT+q
+wc]5
+@A`
+[
+<cmZ
+-Xk|
+1:V$
+sSB?
+AO/*S
+fx+&n
+;1Zg
+-oOC
+,;D2
+i[G4n
+f
+dN-:
+4L^q'
+//BUH
+bm]HD
+{	*'_
+h}v=
+>)Zg
+:/C~
+
+hw\\w]
+6bFc
+_j^m
+#MMBdyp
+YY9(
+BG<y
+y]>M
+U'l1
+2
+pP&@:
+NiSK
+?@ii
+qb:G
+SbDyW[
+/Bm|
+Fx M
+6o;c
+tW_zv
+|	"D/
+bzz
+1
+P{w=]&
+k12<(
+c0=R
+Dbj~
+?Avs
+w"\m9
+L>.I
+:3#[8+
+V\P&
+qFg&
+8)NY5G
+L51/
+(O*@
+I,"t)
+V[nd
+>s+p
+0:xP
+OGnbJ
+Cp"q
+jmFY
+FU*p
+/AQr'
+04}G
+98H#
+aht-
+X]q8r'
+o6
+cX
+"D8O
+Bm&G
+YlF}
+xt0\
+u;yP
+BDST
+'lfs
+8.w.	
+lHR-!z
+@$x<
+Y5$nz
+-Aaw
+Q(V$
+7lB|
+Fa/^
+HZ6!m
+WLC@
+0>tP
+G<>R
+|.$,V
+M_EN
+<5/L
+@$w'
+YHh:.
+
+f169
+
+{Wo2
+:KDY);
+bN|W
+\f+h
+[f6z@
+^Y# 
+^L'x{
+ks!Tn
+{-&'
+_"1k
+>U'l
+d7o?
+}D~~
+0v]v&Fv
+dSP_
+L==g`
+Zd:u
+}=^>
+K4"j
+-Qc
+cCl(
+ewvvv
+N>:-i
+`2?8
+{&QM<
+X,E5
+W	7t"
+j@<r
+x":<bO
+yO2q
+/CuA
+o#0&
+'qI\A
+w?%v
+9^7Q
+&DE^7
+X,.H
+`$(b
+>w	fo
+zK[p
+!_[@
+f&Dal
+uV`C
+qY]Dt
+|sOA
+~Q19N23gbSM
+	=4
+&
+CeP
+
+;}XjI
+"kMm
+u`m~j61
++r<f
+PkDb
+N=6	
+OO68
+,^%7u
+k(Mm
+CNd)
+fKIv
+];D&
+}GVdj
+ _9}
+M<rm
+<J_z;
+Z	h-
+NpGj$=
+"~\n]
+z%:Q
+qN0 #
+|>vdM
+5x8'k
+b,yHo
+lEn~
+bPs(
+>kNZ_
+VRZLhG$
+L	*Ko'A
+YLH0Z
+yY3F
+/Q30
+p5!A
+ h-z
+#_* 
+#078
+TP~3;
+QmFr
+ef&p
+8n5Q
+vdO|8
+)hiN
+!hn<
+
+X\k1
+U2& E
+C=z*
+QP[J
+"{[	#
+iNVdi	
+6nFcz/
+T:F<
+ }I"P
+kd]=
+@~xR
+pZ M
+<> ?:
+-72v4!
+A]ko
+cr/.T
+uxAK^
+2Yfp
+cK*W
+gI)f
+/{/j'
+=/Ho
+G1EZW>
+uh~7
+~w-ch9H
+#D;o
+'6la
+E^8kb2o
+W	j"
+Ox!Z
+8zK?&
+	)T{
+OuV*#d
+	{NAV
+`e42
+X\bl
+E&H\sd
+@NEz
+jG_A
+C0{7
+?F@v6f
+pg,C
+dD[|
+BqxR
+IFDF
+AlZq
+)^:.
+N#32
+M?Bk
+,L?@
+rhy
+
+/1@Xa 
+e"VS
+.w6/
+,FG&r
+TqPi
+XG&e
+8e	Y
+%gy,@
+ac2u
+~%y@(
+I'd(
+x$%4
+o#38*eH
+3+B%
+,+	e
+ZSvTM
+Vx@M
+GkyA
+fjBP
+RUGL b6
+ahCI
+xd\}
+\|iv>=^
+I"l^
+KSi}
+G2(~
+CL?Y
+ZEwb#
+ti0f
+5?DnpT
+q~ia
+#*	i
+ByJ	
+q"}w
+i'<U
+Z/~?
+wXN0
+lbb3
+q' 3
+3{U5a
+b	cm
+f,`v/&N8
+E1"U
+w:"[
+kC>]
+><$\
+T?FV
+3+yX
+1R	G
+^  q(
+ p?'?
+JG`"
+TL@W
+2;:\
+e<tm7v
+ba06
+2` M
+9eIDAT
+v\r>
+$DO~-
+v&B`
+{1VO{
+csm
+Z'Ba`
+=[L8
+x||
+
+lH;>
+r[^T
+w&ZCSh
+XC\l
+)c`i,9B
+I6vY.
+Di4UU
+n}S%
+s\ZG
+f
+0
+l=NL
+JifB
+txi*
+y
+Jg<	
+I:B7
+Kgd
+
+\	]v
+S_V4
+C}nF
+YJXy
+b>Ex
+FfhB
+dvsW&
++0/k
+*B*7_
+v}Jp
+}FqB 
+c	)g
+f).M
+_jg(
+Ko~3
+)l!u
+g,`L-q
+z<#c
+oD}f
+.i/j
+7&&*
+hEz=
+$+Hf
+w!Wc
++~~}
+mty~E
+!q z
++&n%
+; c!
+>uIi
+?5f:u"
+nadt
+Z	tO<*
+g!#N
+..XV
+T[)|
+$Z8
+-n:C
+"}XC
+2`.i
+X_Dgy?
+Dv"r
+x `:C&\J
+]Evm
+(v#f
+F$QH
+m[ S
+tmV8
+P
+]J
+vn#H
+QlC.
++@6&
+t)EFb'
+[u4v
+V J9
+1~0w&
+q+"fv$
+Od'l
+k31N
+@i~C
+qGb_>
+\.9
+)T
+a|(=
+DZUE
+tlZ+
+7qMk
+Hs'8
+%W42b
+ H3AlI&
+3:?N
+gamf
+@O\2Ii
+kKO-$
+\-io
+w/q
+
+Mt@'
+NOKF
+
+<:8"}
+)Na"
+/x3v
+A@V!
+$3]R
+v);a
+K<>`~?
+^"0i
+{nzF%
+~'`E
+Lwc9
+O'!1
+Hv	!+
+H 	qB
+tuWU
+fF`B
+y6vk
+42%C
+B0}ID
+9i<*l
+ [2cS*
+TpjT#
++Sir
+"B[K
+SYRD0+J$
+)==%
+1Y8N
+{"1.
+IAh"
+`r5!HJ+
+tYF6
+?[/f_		
+sc]d^
+O	6I
+bx`HD
+];;;
+*JEh"
+ OVu
+n y_?
+{
+Na
+&~F\
+D(j4
+S4+>G
+0_,ar6
+&jau
+5N'fH
+W?[H
+yh"PV,`
+[4_+
+NJ52
+&P:F
+bUU/@-
+NN1F
+dS6~p
+
+0 (2
+IwZd
+_2Eu
+-`LR!8
+4fmx&
+FP:4
+}q-H
+w{#h
+veBh
+S	6N
+*2K
+NT:
+2FTD
+v
+g'G09
+:at%I
+:adJ[
+u}$|t
+	 
+ u
+<lc`
+LPUf
+jsj
+{$v$
+!x"c
+y"f$
+OZ1T
+p. 1
+{%Hn
+uy~ji
+IEND
+J_L@
+Agent
+AGENT
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity version="3.0.0.0" processorArchitecture="x86" name="Blizzard Switcher" type="win32"></assemblyIdentity><description>Blizzard Switcher</description><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" publicKeyToken="6595b64144ccf1df" language="*" processorArchitecture="x86"></assemblyIdentity></dependentAssembly></dependency><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel></requestedPrivileges></security></trustInfo><compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"><application><supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"></supportedOS><supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS></application></compatibility></assembly>
+0'030?0L0Z0d0q0~0
+1'11161=1G1S1b1l1s1
+2 2/2@2O2Y2`2l2{2
+4D4M4
+929V9z9
+9p:w:
+;U<q<
+\0c0o0v0
+74:z:
+<!<D<
+2L3+4K4[4
+586V6
+0W1j1
+102d2t2
+23.3t3
+8$8q8
+; <-<7<w<\=
+>;>g>
+>U?[?
+6U6j6
+7R7^7
+9E9O9
+9-:5:(;4;|;
+;'<9<
+?/?G?N?Z?a?g?
+-0;0b0
+171I1Z1
+3#4L4T4
+5L6}6
+677U7
+9]9t9
+99:{:
+;2;<;
+=*>b>
+0 0%020=0U0e0x0
+1/1<1C1r1
+22-2Q2
+343g3w3
+34%4A4
+5'585V5\5o5;7Q7
+8,828_8e8x8
+8P9}9
+9o;{<
+<)=0=a=g=z=
+0%1<1C1[1b1z1
+3/4B4K4V4]4
+4 5H5|5
+6$787
+9!<B<2=9=
+>?>J>`>
+6!6'6.656Q6]6l6z6
+6>7H7N7`7
+8#8E8
+9%939L9
+:":*:4:?:H:Z:i:r:
+;%;+;B;G;P;V;g;n;{;
+<4<S<h<
+=<>[>
+>	?"?/?:?A?G?V?t?{?
+0B0R0X0
+1!1A1
+1_2o2}2
+3?3Y3c3n3v3~3
+47405
+7'7,797Y7
+:Q:d:h:n:r:z:
+::<D<\<K?
+3&313a3
+4F4b4
+<&<G<\<
+8a=m=
+<5=I?^?
+:	;p<S=Z=
+828R8V8Z8^8b8f8j8n8r8v8z8~8
+9Z9^9b9f9j9n9r9v9z9~9
+080=0
+1)3?3v3
+4,545F6z6
+6E7e7
+<%<T<o<
+= =*=N=X=|=
+010W0u0|0
+0Z1e1
+2 2$2(2,20242~2
+4&4o4v4~4
+5565<5^5
+788?8U8_8
+;%;i;q;
+=-=7===H=k=p=|=
+=x>~>
+2+262>2K2U2{2
+3"3M4S4_4d4i4n4w4
+5!5*5/5<5
+9
+:m;
+<!=(=.=s={=
+>k?r?
+'1.1A1y1
+2$242D2M2
+3$3)3@3"4b4m4s4
+4.686
+6U7f7
+9H9`9}9
+;:;E;K;];g;p;
+;
+<k<
+>!?G?e?l?p?t?x?|?
+J0U0p0w0|0
+1 1$1n1t1x1|1
+9-989g9
+:+:5:N:X:e:o:
+;];r;
+=2>=>O>
+1&1.1
+6$6V6
+7"8(8J8{:
+;@;R;f;s;x;
+<A<e<q<|=
+3/3>3H3U3_3o3
+737N7V7d7i7x7
+8>8Q8
+9>:k:
+;B;H;q;
+;&<w<
+=&=6>=>
+>I?P?v?}?
+0)0w3d4
+6
+6)6/6
+:d;i;
+< <,<7<^<
+=$=*=:=B=H=W=a=g=v=
+>2>8>>>E>N>S>Y>a>f>l>t>y>
+?$?*?2?7?=?E?J?P?X?]?b?k?p?v?~?
+0!0)0.040<0A0G0O0T0Z0b0g0m0u0z0
+1E1X1h1
+2,282?2F2a2k2
+2v3{3
+3f4l4r4
+6?6T6Z6
+627M7
+7,8?8
+9!9/9
+;#;8;B;
+=f>3?b?k?
+3 4z4
+8w9f:
+0I0U0_0n0y0
+1"1+181g1o1
+3$353U3
+5Y7y9
+<j<'>
+$5{5
+5x798E;K;W;
+=l>+?
+,0<0M0U0e0v0
+2!3-3
+4P4\4x4
+4+5;5i5
+5,6B6U6w6~6
+7/7;7`7g7
+8!838E8W8i8{8
+<Y=k=
+5"5&5*5.52565:5>5B5X7l7
+9E9P90:L:
+;/;5;;;C;I;O;W;];c;k;t;{;
+;#<;<T<
+> >&>->
+2/2G2R2d2
+6*6V6p6
+93:Z:~:
+.0P1X1
+3,444@4O4
+9M:d:
+2 2$2(2,2024282=2N2b2h2m2
+4P5e5
+6&6I6R6\6
+6S7\7f7z7
+7?8Y8i8
+9\:e:o:
+:7;b;
+;H<d<
+<k=)>B>Q>r>
+>#>V>^>r>x>
+0<0^0
+142q2
+3#3+3
+505d5
+6)6U6
+777Z7
+7&8r8
+:::U:p:
+;!;J;p;
+<5<A<E<L<P<W<[<e<r<
+=*=>=Q=W=
+2 2$2(2,2024282<2@2D2H2L2P2\2`2d2h2l2x2
+3$3,343<3D3L3T3\3d3l3t3|3
+4$4,444<4D4L4T4\4d4l4t4|4
+5$545<5D5L5T5\5d5l5t5|5
+6$6,646<6D6L6T6\6d6l6t6|6
+7$7,747<7D7L7T7\7d7l7t7|7
+004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0h1l1
+:$:,:4:<:D:L:T:\:d:l:t:|:
+6$6,646<6D6L6T6\6d6l6t6|6
+7$7,747<7D7L7T7\7d7l7t7|7
+8$8,848<8D8L8T8\8d8l8t8|8
+9$9,949<9D9L9T9\9d9l9t9|9
+:$:,:4:<:D:L:T:\:d:l:t:|:
+;$;,;4;<;D;L;T;\;d;l;t;|;
+<$<,<4<<<D<L<T<\<d<l<t<|<
+= =(=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8
+p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+8t<x<
+=(=8=<=P=T=d=h=l=t=
+>(>8><>L>P>T>X>`>x>
+? ?0?4?L?\?`?d?h?|?
+0$0(0,000D0H0L0P0@1H1
+20282D2d2l2x2
+2,3@3P3`3l3
+4<4H4h4t4
+5 5,5L5X5x5
+686@6H6T6t6
+7$7,747<7D7L7X7x7
+8L8\8h8p8
+9 9(9\9l9x9
+:$:0:P:\:|:
+;,;8;@;t;
+<$<,<0<4<<<P<p<
+=8=T=X=x=
+>4>8>X>x>
+?$?@?L?h?
+0(0H0h0
+1,181@1l1p1x1
+20282@2H2P2d2l2
+3$3,343<3D3L3T3\3d3l3t3|3
+; ;$;(;,;0;4;8;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+<,<<<L<\<|<
+383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5(5,5054585<5D5H5L5P5T5
+1 1<1\1|1
+2H2l2
+Z0X03
+<<<Obsolete>>
+>0!0	
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+"W*o
+]jxdE
+`F~T
+&0$0"
+http://ocsp.thawte.com0
+80604
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+y@b%
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+2oNW
+a;EQ
+g0e0*
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
+50301
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+b07x
+,&c3
+Idm
+\vnO^
+EFAn
+y3+.{
+>"hcS
+fuSC
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+131022120000Z
+281022120000Z0r1
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+y(:~
+T3Pt
+p1f3q>
+~t96
+m0k0$
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+z0x0:
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
+H0F08
+0*0(
+https://www.digicert.com/CPS0
+
+,|%)v
+hlD2
+Ykk^V0
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+151114000000Z
+180118120000Z0
+
+California1
+Irvine1%0#
+Blizzard Entertainment, Inc.1%0#
+Blizzard Entertainment, Inc.0
+bo}Cm
+"j9tV
+t)dd#
+bP]o
+p0n05
+/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
+/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
+E0C07
+0*0(
+https://www.digicert.com/CPS0
+x0v0$
+http://ocsp.digicert.com0N
+Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
+L)R+
+e%X#{#
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA
+Ykk^V0	
+Xb,K0,
+;7BD
+0r0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+160125194405Z0#
+:-%Y
+k?	u
+yzW9
+~s+l?
+!This program cannot be run in DOS mode.
+$
+RichH|
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+L$ SVH
+|$ H
+L$XH
+D$(H
+D$XD
+L$XL
+L$(H
+\$PH
+t$`H
+\$0H
+t$8H
+t$8H
+T$PH
+\$0H
+t$8H
+\$0H
+t$8H
+\$0H
+t$8H
+T$ H
+D$ 8
+T$(H
+T$ H
+T$(H
+T$ H
+|$ ATH
+\$0H
+\$0H
+l$8H
+t$@H
+|$HH
+t$@H
+|$HH
+VATAUAVAWH
+D$0A
+L$HH
+D$0H
+L$HH
+T$0H
+D$ H
+D$HH;
+L$HL
+D$0H
+L$(H
+L$ H
+D$0H
+D$HH
+`A_A^A]A\^
+\$ VH
+T$0H
+D$08
+D$08
+T$0H
+T$0H
+D$08
+0t!;
+taD;
+T$(N
+UVWATAUAVAWH
+t#8_
+L$pHc
+t$ J
+a	E;
+L$pHc
+t$ J
+a
+E;
+L$pHc
+t$ J
+fffff
+L$pHc
+t$ J
+L$pHc
+t$ J
+Eu_H
+L$pHc
+t$ J
+\$x|
+0A_A^A]A\_^]
+@SUWATAUAVAWH
+L$`E
+l$PE
+D$TE
+D$@H
+D$hH
+D$8H
+D$PH
+d$ D
+Hct$P;u
+l$h2
+L$Tt
+'<
+u-Hc
+t$PB
+/<u+Hc
+t$PB
+|$`H
+L$xLc
+D$(H
+|$`H
+\$pD
+t$XE3
+A_A^A]A\_][
+t$ ATH
+\$8H
+l$@H
+t$HH
+l$83
+t$@H
+ttE3
+l$8H
+t$@H
+\$0H
+\$@H
+\$@3
+|$0H
+|$0H
+T$@H
+L$0L
+L$@A
+t$HH
+L$@A
+t$H3
+\$PH
+D$@H
+t$H3
+\$PH
+\$PH
+\$0H
+t$8H
+L$ D
+D$0H
+l$H3
+L$pH
+L$ L
+T$xH
+T$xH
+|$pH
+L$pHc
+l$HH
+L$0H
+\$PH
+X_^H
+L$PA
+L$PH
+T$(A
+WATAUAVAWH
+l$)D
+l$'D
+l$%E2
+d$(D
+d$*@2
+L$+@
+l$#@
+l$!@
+l$$2
+u)A;
+l$&D
+d$(A
+|$92
+8T$*t%@
+D$0H
+D$HH
+t$#@
+|$!@
+@8|$+
+D$`.
+D$$I
+D$HH
+t$0H
+D$0H
+D$0H
+T$0H
+A_A^A]A\_
+\$0H
+t$8H
+t$0H
+OHc
+\$XE3
+T$`H
+D$PH
+D$HH
+D$0H
+D$@H
+D$(H
+D$ L
+L$PL
+D$XH
+T$`3
+D$hH
+VWATH
+|$px
+\$`H
+\$hH
+@A\_^
+SVWATH
+|$px
+\$`H
+8A\_^[
+8csm
+@ = 
+D$8H
+D$8H
+D$@H
+D$@H
+\$0H
+\$0H
+HcH<H
+LcA<E3
+t"M+
+L$8D
+\$8L3
+\$@H
+x ATH
+\$0H
+l$8H
+t$@H
+|$HA
+8csm
+%s failed with error %d: %s
+bad allocation
+Failed gather module information for process 0x%x (%i). 
+dump_process
+Failed open process 0x%x (%i). 
+Failed read full heap from address 0x%016llX: %s. Only %i of expected %i bytes were read.
+
+Failed to read from address 0x%016llX. 
+ReadProcessMemory
+Failed to allocate space of %x for reading in a heap.
+UNICODE: 
+ASCII: 
+UNDETERMINED: 
+ASM: 
+Invalid stream: %s.
+
+%s/%s
+%s/%S
+Error opening file %s: %s.
+
+Failed to allocate memory block of size %i for filename: %s.
+
+Unable to open directory %s: %s.
+
+--help
+-help
+-asm
+-raw
+-pid
+-system
+Failed to parse -l argument. The string size must be 3 or larger:
+	eg. 'strings2 *.exe -l 6'
+
+Failed to parse -l argument. It must be preceeded by a number:
+	eg. 'strings2 *.exe -l 6'
+
+Failed to parse argument number %i, '%S'. Try 'strings2 --help' for usage instructions.
+
+Warning. Default conditions extract both unicode and ascii strings. There is no need to use both '-a' and '-u' flags at the same time.
+
+Strings2 v1.3
+
+  Copyright 
+ 2016, Geoff McDonald
+
+  http://www.split-code.com/
+
+
+Strings2 is an improved version of the Sysinternals strings tool that extracts all unicode/ascii strings from binary data. On top of the classical strings approach, this improved version is able to dump strings from process address spaces and also reconstructs assembly local variable assignment ascii/unicode strings.
+
+
+Example Usage:
+
+	strings2 malware.exe
+
+	strings2 *.exe > strings.txt
+
+	strings2 *.exe -nh -f -t -asm > strings.txt
+
+	strings2 -pid 419 > process_strings.txt
+
+	strings2 -pid 0x1a3 > process_strings.txt
+
+	strings2 -system > all_process_strings.txt
+
+	cat abcd.exe | strings2 > out.txt
+
+
+Flags:
+
+ -f
+	Prints the filename/processname before each string.
+
+ -r
+	Recursively process subdirectories.
+
+ -t
+	Prints the type before each string. Unicode,
+	ascii, or assembly unicode/ascii stack push.
+
+ -asm
+	Only prints the extracted ascii/unicode
+	assembly stack push-hidden strings.
+
+ -raw
+	Only prints the regular ascii/unicode strings.
+
+ -a
+	Prints only ascii strings.
+
+ -u
+	Prints only unicode strings.
+
+ -l [numchars]
+	Minimum number of characters that is
+	a valid string. Default is 4.
+
+ -nh
+	No header is printed in the output.
+
+ -pid
+	The strings from the process address space for the
+	specified PID will be dumped. Use a '0x' prefix to
+	specify a hex PID.
+
+ -system
+	Dumps strings from all accessible processes on the
+	system. This takes awhile.
+
+ -e
+	Escape \r and \n characters.
+
+Failed to parse filter argument as a valid PID: %s.
+
+Error. No PID was specified. Example usage:
+	strings2 -pid 419 > process_strings.txt
+
+Failed to set piped data mode to binary but will continue with processing of piped data.
+piped data
+Error opening the piped input: %s.
+
+RSDS
+c:\Users\glmcdona\Documents\Visual Studio 2008\Projects\strings\x64\Release\strings.pdb
+PathMatchSpecW
+SHLWAPI.dll
+lstrlenW
+GetLastError
+FormatMessageW
+LocalAlloc
+LocalSize
+LocalFree
+CreateToolhelp32Snapshot
+Process32FirstW
+Process32NextW
+CloseHandle
+OpenProcess
+VirtualQueryEx
+ReadProcessMemory
+Module32FirstW
+Module32NextW
+lstrcmpW
+GetFullPathNameW
+FindClose
+FindFirstFileExW
+FindNextFileW
+GetCurrentProcess
+KERNEL32.dll
+OpenProcessToken
+GetTokenInformation
+AdjustTokenPrivileges
+ADVAPI32.dll
+_vsnwprintf
+__iob_func
+fwprintf
+??2@YAPEAX_K@Z
+fwrite
+printf
+fflush
+??3@YAXPEAX@Z
+free
+??_U@YAPEAX_K@Z
+wcstombs
+fprintf
+strerror
+_errno
+malloc
+realloc
+??_V@YAXPEAX@Z
+memmove
+fread
+wcsrchr
+mbstowcs_s
+wcstombs_s
+_set_errno
+sprintf_s
+fopen
+fclose
+_isatty
+_fileno
+_wtoi
+exit
+swscanf
+_setmode
+MSVCR90.dll
+_amsg_exit
+__wgetmainargs
+__C_specific_handler
+_XcptFilter
+_exit
+_cexit
+__winitenv
+_initterm
+_initterm_e
+_configthreadlocale
+__setusermatherr
+_commode
+_fmode
+_encode_pointer
+__set_app_type
+__crt_debugger_hook
+?terminate@@YAXXZ
+?_type_info_dtor_internal_method@type_info@@QEAAXXZ
+_unlock
+__dllonexit
+_lock
+_onexit
+_decode_pointer
+??1?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QEAA@XZ
+??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QEAA@PEBD_K@Z
+MSVCP90.dll
+GetModuleBaseNameW
+PSAPI.DLL
+Sleep
+TerminateProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+RtlVirtualUnwind
+RtlLookupFunctionEntry
+RtlCaptureContext
+QueryPerformanceCounter
+GetTickCount
+GetCurrentThreadId
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+_fdopen
+_CxxThrowException
+memcpy
+__CxxFrameHandler3
+memset
+.?AVtype_info@@
+.?AW4exception@?$DynArray@PEAVmodule@@@@
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.VC90.CRT" version="9.0.21022.8" processorArchitecture="amd64" publicKeyToken="1fc8b3b9a1e18e3b"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+</assembly>PADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDING
